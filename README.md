@@ -25,4 +25,12 @@ Upload your image and see the model in action!
 
 Technologies
 
-Python | PyTorch | Torchvision | Streamlit | PIL | CIFAR-10
+Backend / ML: Python, PyTorch, Torchvision, PIL
+
+Frontend / Web: Streamlit
+
+Dataset: CIFAR-10
+
+Deployment: Streamlit Cloud (hosted live demo)
+
+Version Control: Git/GitHub
